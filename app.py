@@ -54,4 +54,5 @@ Be specific to Indian market!"""
 
 After that go to **share.streamlit.io** → your app → **Settings → Secrets** and add:
 ```
-GROQ_API_KEY = "your_groq_key_here"
+GROQ_API_KEY = "GROQ_API_KEY = "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"
+"
